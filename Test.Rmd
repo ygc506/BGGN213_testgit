@@ -19,6 +19,11 @@ You can include R code in the document as follows:
 summary(cars)
 ```
 
+
+## A level 4 title 
+## Learn how to use the R markdown file
+
+
 ## Including Plots
 
 You can also embed plots, for example:
